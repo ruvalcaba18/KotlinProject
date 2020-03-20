@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">kotlinExamples</string>
+    <string name="str_en">Ingles</string>
+    <string name="str_es">Español</string>
+    <string name="str_it">Italiano</string>
+    <string name="str_fr">Frances</string>
+    <string name="str_zh">Chino</string>
+
+    <string-array name="languages">
+        <item>@string/str_en</item>
+        <item>@string/str_es</item>
+        <item>@string/str_it</item>
+        <item>@string/str_zh</item>
+        <item>@string/str_fr</item>>
+    </string-array>
+    <string name="Saludo">Bienvenido a Sachant!.</string>
+    <string name="title_activity_intento_mapa">Map</string>
+    <string name="cervecerias">Cervecerias</string>
+
+</resources>

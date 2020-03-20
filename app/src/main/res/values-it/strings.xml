@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kotlinExamples</string>
+    <string name="Saludo">" Benvenuto in Sachant.!"</string>
+    <string name="bienvenida">" Accolgo con Favore"</string>
+    <string name="str_en">Inglese</string>
+    <string name="str_es">Spangolo</string>
+    <string name="str_it">Italiano</string>
+    <string name="str_fr">Francese</string>
+    <string name="str_zh">" Cinese"</string>
+</resources>

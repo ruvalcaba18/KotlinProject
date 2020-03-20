@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_centerInParent="true"
+    android:layout_weight="1"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/Icono"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="32dp"
+        tools:layout_editor_absoluteY="48dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <Button
+        android:id="@+id/espaniolButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/mex"
+        android:text="@string/str_es"
+        tools:layout_editor_absoluteX="128dp"
+        tools:layout_editor_absoluteY="315dp" />
+
+    <Button
+        android:id="@+id/englishButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/usa"
+        android:drawablePadding="1dp"
+        android:text="@string/str_en"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="363dp" />
+
+    <Button
+        android:id="@+id/frenchButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/franceflags"
+        android:scaleType="fitCenter"
+        android:text="@string/str_fr"
+        tools:layout_editor_absoluteX="40dp"
+        tools:layout_editor_absoluteY="528dp" />
+
+    <Button
+        android:id="@+id/chineseButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/chinese"
+        android:text="@string/str_zh"
+        tools:layout_editor_absoluteX="37dp"
+        tools:layout_editor_absoluteY="480dp" />
+
+    <Button
+        android:id="@+id/italianButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/itali"
+        android:text="@string/str_it"
+        tools:layout_editor_absoluteX="75dp"
+        tools:layout_editor_absoluteY="425dp" />
+</androidx.appcompat.widget.LinearLayoutCompat>

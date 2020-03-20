@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kotlinExamples</string>
+    <string name="Saludo">" 欢迎来到萨钦特！"</string>
+    <string name="bienvenida">" 歡迎光臨"</string>
+    <string name="str_en">" 英文"</string>
+    <string name="str_es">西班牙文</string>
+    <string name="str_fr">" 法國人"</string>
+    <string name="str_it">義大利文</string>
+    <string name="str_zh">" 中國人"</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bienvenida">Welcome</string>
+    <string name="str_en">English</string>
+    <string name="str_es">Spanish</string>
+    <string name="str_it">Italian</string>
+    <string name="str_fr">French</string>
+    <string name="str_zh">Chinese</string>
+    <string name="Saludo">" Welcome to Sachant.!"</string>>
+</resources>
